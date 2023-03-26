@@ -101,7 +101,6 @@ begin
     get_details();
 End;
 /
-variable n1 number;
 set serveroutput on;
 create or replace procedure id(c_id int)
 IS 
